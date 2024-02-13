@@ -16,8 +16,7 @@ nav ul li{
     float: left;
     list-style: none;
     width: 7.5em;
-    line-height: 7em;
-    
+    line-height: 7em; 
 }
 nav ul li a{
     color: black;
@@ -76,8 +75,20 @@ h4{
     margin-top: 90px;
     
 }
-
-
+.h5{
+    align-content: center;
+}
+.img{
+    display: flex;
+    word-wrap: initial;
+    white-space: 20px;
+    width: max-content;
+    height: 100px;
+}
+.png{
+    margin:0em;
+    padding:11px;
+}
 
 
 
